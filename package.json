@@ -1,0 +1,21 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "should": "^11.1.1"
+  },
+  "scripts": {
+    "testBDD": "mocha",
+    "testTDD": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
