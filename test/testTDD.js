@@ -5,7 +5,11 @@ var expect = chai.expect;
 
 suite('Array using suite', function() {
 setup(function() {
+
 // ...its TDD example with Mocha and assertion tool Chai lib
+
+
+
 });
 
 suite('#indexOf()', function() {
