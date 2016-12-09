@@ -5,7 +5,7 @@ var expect = chai.expect;
 
 suite('Array using suite', function() {
 setup(function() {
-// ...
+// ...its TDD example
 });
 
 suite('#indexOf()', function() {
